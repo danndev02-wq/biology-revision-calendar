@@ -1,0 +1,2075 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//AQA A-Level Biology Compact Spaced Reviews//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AQA A-Level Biology Compact Spaced Reviews
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:29fdb7f5-a12a-4368-b331-444326c18327@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:1A — Topic 1: Biological molecules — structure (Initial study)
+DESCRIPTION:Revise 1A — Topic 1: Biological molecules — structure. Sess
+ ion: Initial study. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:099ad7c9-65ca-45a3-bf09-a5cd11dc11f2@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:1B — Topic 1: Proteins and other biological molecules (Initial st
+ udy)
+DESCRIPTION:Revise 1B — Topic 1: Proteins and other biological molecules.
+  Session: Initial study. Keep the session focused: active recall\, then AQ
+ A exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2cb2bd4b-79c1-4e8a-a910-9d0ad9f75b1d@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:1A — Topic 1: Biological molecules — structure (Spaced review 1
+ )
+DESCRIPTION:Revise 1A — Topic 1: Biological molecules — structure. Sess
+ ion: Spaced review 1. Keep the session focused: active recall\, then AQA e
+ xam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:586c6fa3-5f0d-4078-846a-8bba02c565f9@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:2A — Topic 2: Cell structure and microscopy (Initial study)
+DESCRIPTION:Revise 2A — Topic 2: Cell structure and microscopy. Session: 
+ Initial study. Keep the session focused: active recall\, then AQA exam que
+ stions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ae644304-6764-409e-8ae7-726075edf637@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:1B — Topic 1: Proteins and other biological molecules (Spaced rev
+ iew 1)
+DESCRIPTION:Revise 1B — Topic 1: Proteins and other biological molecules.
+  Session: Spaced review 1. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:61b7771e-6b51-4e75-ac97-e772e3bd2655@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:2B — Topic 2: Cell division\, membranes and immunity (Initial stu
+ dy)
+DESCRIPTION:Revise 2B — Topic 2: Cell division\, membranes and immunity. 
+ Session: Initial study. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:302ad07c-b8d9-4ffd-ab55-b67990a62d1b@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:2A — Topic 2: Cell structure and microscopy (Spaced review 1)
+DESCRIPTION:Revise 2A — Topic 2: Cell structure and microscopy. Session: 
+ Spaced review 1. Keep the session focused: active recall\, then AQA exam q
+ uestions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8b9c9fd8-2a8b-4710-aa54-12095f0a13b3@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:3A — Topic 3: Exchange surfaces\, digestion and absorption (Initi
+ al study)
+DESCRIPTION:Revise 3A — Topic 3: Exchange surfaces\, digestion and absorp
+ tion. Session: Initial study. Keep the session focused: active recall\, th
+ en AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c601f5c0-9ec8-47cb-ad53-5941bb5e4ac4@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:2B — Topic 2: Cell division\, membranes and immunity (Spaced revi
+ ew 1)
+DESCRIPTION:Revise 2B — Topic 2: Cell division\, membranes and immunity. 
+ Session: Spaced review 1. Keep the session focused: active recall\, then A
+ QA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:227898fb-d777-4872-9bcc-5a01e2caade9@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:3B — Topic 3: Mass transport in animals and plants (Initial study
+ )
+DESCRIPTION:Revise 3B — Topic 3: Mass transport in animals and plants. Se
+ ssion: Initial study. Keep the session focused: active recall\, then AQA e
+ xam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:61bc62f1-4011-4901-adf0-4e06c01c9f87@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:3A — Topic 3: Exchange surfaces\, digestion and absorption (Space
+ d review 1)
+DESCRIPTION:Revise 3A — Topic 3: Exchange surfaces\, digestion and absorp
+ tion. Session: Spaced review 1. Keep the session focused: active recall\, 
+ then AQA exam questions. For reviews\, attempt recall before checking note
+ s.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:461a1766-7d4a-40ee-8b09-68fa16daf288@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:4A — Topic 4: DNA and protein synthesis (Initial study)
+DESCRIPTION:Revise 4A — Topic 4: DNA and protein synthesis. Session: Init
+ ial study. Keep the session focused: active recall\, then AQA exam questio
+ ns. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fbfd3127-0ab6-4b6a-8730-53316f621146@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:3B — Topic 3: Mass transport in animals and plants (Spaced review
+  1)
+DESCRIPTION:Revise 3B — Topic 3: Mass transport in animals and plants. Se
+ ssion: Spaced review 1. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:43d66f84-43a1-44db-886d-e0a71d285f59@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:4B — Topic 4: Variation\, evolution and biodiversity (Initial stu
+ dy)
+DESCRIPTION:Revise 4B — Topic 4: Variation\, evolution and biodiversity. 
+ Session: Initial study. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:68630da7-9e24-4b7d-ad87-494e8f153d67@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:1A — Topic 1: Biological molecules — structure (Spaced review 2
+ )
+DESCRIPTION:Revise 1A — Topic 1: Biological molecules — structure. Sess
+ ion: Spaced review 2. Keep the session focused: active recall\, then AQA e
+ xam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ddf2c6d4-6707-46cd-a02a-606a1dc0b02e@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:5A — Topic 5: Photosynthesis (Initial study)
+DESCRIPTION:Revise 5A — Topic 5: Photosynthesis. Session: Initial study. 
+ Keep the session focused: active recall\, then AQA exam questions. For rev
+ iews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bdd334c3-a118-488e-bc57-ea0af7aebebb@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:4A — Topic 4: DNA and protein synthesis (Spaced review 1)
+DESCRIPTION:Revise 4A — Topic 4: DNA and protein synthesis. Session: Spac
+ ed review 1. Keep the session focused: active recall\, then AQA exam quest
+ ions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4b931585-ee34-4c7b-bba2-1dd547a11f84@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:5B — Topic 5: Respiration\, ecosystems and energy (Initial study)
+DESCRIPTION:Revise 5B — Topic 5: Respiration\, ecosystems and energy. Ses
+ sion: Initial study. Keep the session focused: active recall\, then AQA ex
+ am questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:61433c97-2128-4576-b5bc-1d8f9902dd01@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:1B — Topic 1: Proteins and other biological molecules (Spaced rev
+ iew 2)
+DESCRIPTION:Revise 1B — Topic 1: Proteins and other biological molecules.
+  Session: Spaced review 2. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7b26f30f-8b7a-4ae6-b2db-ff3025b2b3cf@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:6A — Topic 6: Nervous coordination and muscles (Initial study)
+DESCRIPTION:Revise 6A — Topic 6: Nervous coordination and muscles. Sessio
+ n: Initial study. Keep the session focused: active recall\, then AQA exam 
+ questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:41532093-829c-4be8-bc5d-fcb85eb57547@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:4B — Topic 4: Variation\, evolution and biodiversity (Spaced revi
+ ew 1)
+DESCRIPTION:Revise 4B — Topic 4: Variation\, evolution and biodiversity. 
+ Session: Spaced review 1. Keep the session focused: active recall\, then A
+ QA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d913a0ff-15be-4b77-9fe5-d744dc47e88c@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:6B — Topic 6: Homeostasis and plant responses (Initial study)
+DESCRIPTION:Revise 6B — Topic 6: Homeostasis and plant responses. Session
+ : Initial study. Keep the session focused: active recall\, then AQA exam q
+ uestions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:172e9a1a-3126-4e23-b688-2829dfd25a28@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:2A — Topic 2: Cell structure and microscopy (Spaced review 2)
+DESCRIPTION:Revise 2A — Topic 2: Cell structure and microscopy. Session: 
+ Spaced review 2. Keep the session focused: active recall\, then AQA exam q
+ uestions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dd8a3ce3-29d1-4c50-ae15-ef90730a5789@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:7A — Topic 7: Inheritance and population genetics (Initial study)
+DESCRIPTION:Revise 7A — Topic 7: Inheritance and population genetics. Ses
+ sion: Initial study. Keep the session focused: active recall\, then AQA ex
+ am questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6645ed97-b635-4775-a5a7-7a44574317dc@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:5A — Topic 5: Photosynthesis (Spaced review 1)
+DESCRIPTION:Revise 5A — Topic 5: Photosynthesis. Session: Spaced review 1
+ . Keep the session focused: active recall\, then AQA exam questions. For r
+ eviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ed35ded2-ae17-4fd7-845f-6592943d53b2@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:7B — Topic 7: Evolution\, populations and ecosystems (Initial stu
+ dy)
+DESCRIPTION:Revise 7B — Topic 7: Evolution\, populations and ecosystems. 
+ Session: Initial study. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:53e38d4f-3b33-4f84-b3e7-d2556e2e7840@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:2B — Topic 2: Cell division\, membranes and immunity (Spaced revi
+ ew 2)
+DESCRIPTION:Revise 2B — Topic 2: Cell division\, membranes and immunity. 
+ Session: Spaced review 2. Keep the session focused: active recall\, then A
+ QA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:55db4646-24a2-4193-8311-2359b4556007@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:8A — Topic 8: Gene regulation and epigenetics (Initial study)
+DESCRIPTION:Revise 8A — Topic 8: Gene regulation and epigenetics. Session
+ : Initial study. Keep the session focused: active recall\, then AQA exam q
+ uestions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:477ba74f-deec-4d40-9e10-facf4eb8f1f5@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:5B — Topic 5: Respiration\, ecosystems and energy (Spaced review 
+ 1)
+DESCRIPTION:Revise 5B — Topic 5: Respiration\, ecosystems and energy. Ses
+ sion: Spaced review 1. Keep the session focused: active recall\, then AQA 
+ exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:843515af-f5ee-47ce-8181-cbff88d8b706@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:8B — Topic 8: Gene technologies (Initial study)
+DESCRIPTION:Revise 8B — Topic 8: Gene technologies. Session: Initial stud
+ y. Keep the session focused: active recall\, then AQA exam questions. For 
+ reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ad9a3154-595c-4bcc-8193-2204e37d4a28@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:3A — Topic 3: Exchange surfaces\, digestion and absorption (Space
+ d review 2)
+DESCRIPTION:Revise 3A — Topic 3: Exchange surfaces\, digestion and absorp
+ tion. Session: Spaced review 2. Keep the session focused: active recall\, 
+ then AQA exam questions. For reviews\, attempt recall before checking note
+ s.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a7219d-b0ac-4f27-86e2-91c58595c1a6@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:6A — Topic 6: Nervous coordination and muscles (Spaced review 1)
+DESCRIPTION:Revise 6A — Topic 6: Nervous coordination and muscles. Sessio
+ n: Spaced review 1. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a859067-5616-40cd-b6b7-85af1a250c56@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:3B — Topic 3: Mass transport in animals and plants (Spaced review
+  2)
+DESCRIPTION:Revise 3B — Topic 3: Mass transport in animals and plants. Se
+ ssion: Spaced review 2. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b939c520-0d61-479b-a3a3-9125590b52a6@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:6B — Topic 6: Homeostasis and plant responses (Spaced review 1)
+DESCRIPTION:Revise 6B — Topic 6: Homeostasis and plant responses. Session
+ : Spaced review 1. Keep the session focused: active recall\, then AQA exam
+  questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:01ed8d58-34ca-4dc4-9a3f-2c57e5ae9aad@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:4A — Topic 4: DNA and protein synthesis (Spaced review 2)
+DESCRIPTION:Revise 4A — Topic 4: DNA and protein synthesis. Session: Spac
+ ed review 2. Keep the session focused: active recall\, then AQA exam quest
+ ions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1e46d9cc-4b50-4ddb-a605-6ffa3a126920@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:7A — Topic 7: Inheritance and population genetics (Spaced review 
+ 1)
+DESCRIPTION:Revise 7A — Topic 7: Inheritance and population genetics. Ses
+ sion: Spaced review 1. Keep the session focused: active recall\, then AQA 
+ exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7d893891-0738-492c-ae5d-a945f66e784c@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:1A — Topic 1: Biological molecules — structure (Spaced review 3
+ )
+DESCRIPTION:Revise 1A — Topic 1: Biological molecules — structure. Sess
+ ion: Spaced review 3. Keep the session focused: active recall\, then AQA e
+ xam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d1dc32bf-1450-4689-b414-8fe7f75c91a2@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:4B — Topic 4: Variation\, evolution and biodiversity (Spaced revi
+ ew 2)
+DESCRIPTION:Revise 4B — Topic 4: Variation\, evolution and biodiversity. 
+ Session: Spaced review 2. Keep the session focused: active recall\, then A
+ QA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c32f5a79-1672-4e0a-b27f-d2cb551a6cc0@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:5A — Topic 5: Photosynthesis (Spaced review 2)
+DESCRIPTION:Revise 5A — Topic 5: Photosynthesis. Session: Spaced review 2
+ . Keep the session focused: active recall\, then AQA exam questions. For r
+ eviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:100f311f-196b-4b4b-b131-3dacbe650be6@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:7B — Topic 7: Evolution\, populations and ecosystems (Spaced revi
+ ew 1)
+DESCRIPTION:Revise 7B — Topic 7: Evolution\, populations and ecosystems. 
+ Session: Spaced review 1. Keep the session focused: active recall\, then A
+ QA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:75f2bceb-bd28-43f5-a2dd-39706ae173c6@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:1B — Topic 1: Proteins and other biological molecules (Spaced rev
+ iew 3)
+DESCRIPTION:Revise 1B — Topic 1: Proteins and other biological molecules.
+  Session: Spaced review 3. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5f941517-fdd7-46ca-a98e-23992efadbf1@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:8A — Topic 8: Gene regulation and epigenetics (Spaced review 1)
+DESCRIPTION:Revise 8A — Topic 8: Gene regulation and epigenetics. Session
+ : Spaced review 1. Keep the session focused: active recall\, then AQA exam
+  questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:45da99de-5a50-40cf-aa65-f48844063e26@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:2A — Topic 2: Cell structure and microscopy (Spaced review 3)
+DESCRIPTION:Revise 2A — Topic 2: Cell structure and microscopy. Session: 
+ Spaced review 3. Keep the session focused: active recall\, then AQA exam q
+ uestions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b3731c8b-e5a8-4f00-ac0d-e5b253dfaf19@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:5B — Topic 5: Respiration\, ecosystems and energy (Spaced review 
+ 2)
+DESCRIPTION:Revise 5B — Topic 5: Respiration\, ecosystems and energy. Ses
+ sion: Spaced review 2. Keep the session focused: active recall\, then AQA 
+ exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a2c5c1b3-dd69-4e1f-b926-babf59ab0db8@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:6A — Topic 6: Nervous coordination and muscles (Spaced review 2)
+DESCRIPTION:Revise 6A — Topic 6: Nervous coordination and muscles. Sessio
+ n: Spaced review 2. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f730aa7d-658b-495a-90d3-c300ac0ceb92@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:8B — Topic 8: Gene technologies (Spaced review 1)
+DESCRIPTION:Revise 8B — Topic 8: Gene technologies. Session: Spaced revie
+ w 1. Keep the session focused: active recall\, then AQA exam questions. Fo
+ r reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e8fbf61c-e11c-4d2d-ac5e-f08d5d1d9633@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:2B — Topic 2: Cell division\, membranes and immunity (Spaced revi
+ ew 3)
+DESCRIPTION:Revise 2B — Topic 2: Cell division\, membranes and immunity. 
+ Session: Spaced review 3. Keep the session focused: active recall\, then A
+ QA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:14f4fb9a-3ed0-424d-ad0a-1a27b1bf17ca@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:6B — Topic 6: Homeostasis and plant responses (Spaced review 2)
+DESCRIPTION:Revise 6B — Topic 6: Homeostasis and plant responses. Session
+ : Spaced review 2. Keep the session focused: active recall\, then AQA exam
+  questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d85502fe-960c-4bc0-9e8c-10a7872169c5@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:3A — Topic 3: Exchange surfaces\, digestion and absorption (Space
+ d review 3)
+DESCRIPTION:Revise 3A — Topic 3: Exchange surfaces\, digestion and absorp
+ tion. Session: Spaced review 3. Keep the session focused: active recall\, 
+ then AQA exam questions. For reviews\, attempt recall before checking note
+ s.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:55fb5da8-e2b7-43d7-bea8-8e8b0327c242@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:7A — Topic 7: Inheritance and population genetics (Spaced review 
+ 2)
+DESCRIPTION:Revise 7A — Topic 7: Inheritance and population genetics. Ses
+ sion: Spaced review 2. Keep the session focused: active recall\, then AQA 
+ exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:456865e2-29fb-48b0-a930-17a4ee8916c1@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:3B — Topic 3: Mass transport in animals and plants (Spaced review
+  3)
+DESCRIPTION:Revise 3B — Topic 3: Mass transport in animals and plants. Se
+ ssion: Spaced review 3. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e3f25bb1-4d01-49df-917c-63b80e1b19ba@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:7B — Topic 7: Evolution\, populations and ecosystems (Spaced revi
+ ew 2)
+DESCRIPTION:Revise 7B — Topic 7: Evolution\, populations and ecosystems. 
+ Session: Spaced review 2. Keep the session focused: active recall\, then A
+ QA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bfc73ba3-17cd-49fc-994e-4f0efe3dcf13@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:4A — Topic 4: DNA and protein synthesis (Spaced review 3)
+DESCRIPTION:Revise 4A — Topic 4: DNA and protein synthesis. Session: Spac
+ ed review 3. Keep the session focused: active recall\, then AQA exam quest
+ ions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9794640e-61fd-439e-b753-5e5880e446c2@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:8A — Topic 8: Gene regulation and epigenetics (Spaced review 2)
+DESCRIPTION:Revise 8A — Topic 8: Gene regulation and epigenetics. Session
+ : Spaced review 2. Keep the session focused: active recall\, then AQA exam
+  questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:58315331-0bb0-4d18-ad90-751d7defc4b3@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:4B — Topic 4: Variation\, evolution and biodiversity (Spaced revi
+ ew 3)
+DESCRIPTION:Revise 4B — Topic 4: Variation\, evolution and biodiversity. 
+ Session: Spaced review 3. Keep the session focused: active recall\, then A
+ QA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d9d82150-dbd7-42d2-bf35-1db47cf3575e@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:8B — Topic 8: Gene technologies (Spaced review 2)
+DESCRIPTION:Revise 8B — Topic 8: Gene technologies. Session: Spaced revie
+ w 2. Keep the session focused: active recall\, then AQA exam questions. Fo
+ r reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bf36b9d2-2e38-49ca-b6ff-3c3eb70ce80c@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:5A — Topic 5: Photosynthesis (Spaced review 3)
+DESCRIPTION:Revise 5A — Topic 5: Photosynthesis. Session: Spaced review 3
+ . Keep the session focused: active recall\, then AQA exam questions. For r
+ eviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:724413e1-d00d-4b65-903d-251aeb285cf9@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:5B — Topic 5: Respiration\, ecosystems and energy (Spaced review 
+ 3)
+DESCRIPTION:Revise 5B — Topic 5: Respiration\, ecosystems and energy. Ses
+ sion: Spaced review 3. Keep the session focused: active recall\, then AQA 
+ exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:08c6cc78-81de-49bd-b884-d5aee399b34b@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:6A — Topic 6: Nervous coordination and muscles (Spaced review 3)
+DESCRIPTION:Revise 6A — Topic 6: Nervous coordination and muscles. Sessio
+ n: Spaced review 3. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:39beb9dc-837a-4492-9443-0983a5ed3aed@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:6B — Topic 6: Homeostasis and plant responses (Spaced review 3)
+DESCRIPTION:Revise 6B — Topic 6: Homeostasis and plant responses. Session
+ : Spaced review 3. Keep the session focused: active recall\, then AQA exam
+  questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7d348822-4e0b-4385-9d9a-52b4603f13d9@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:7A — Topic 7: Inheritance and population genetics (Spaced review 
+ 3)
+DESCRIPTION:Revise 7A — Topic 7: Inheritance and population genetics. Ses
+ sion: Spaced review 3. Keep the session focused: active recall\, then AQA 
+ exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5540c4fb-2dbb-4344-8077-541dd89a12e1@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:7B — Topic 7: Evolution\, populations and ecosystems (Spaced revi
+ ew 3)
+DESCRIPTION:Revise 7B — Topic 7: Evolution\, populations and ecosystems. 
+ Session: Spaced review 3. Keep the session focused: active recall\, then A
+ QA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3ca34fae-6f77-4196-bef1-68757d862f62@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:8A — Topic 8: Gene regulation and epigenetics (Spaced review 3)
+DESCRIPTION:Revise 8A — Topic 8: Gene regulation and epigenetics. Session
+ : Spaced review 3. Keep the session focused: active recall\, then AQA exam
+  questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf245b9-f5a3-4144-9f2c-4e288a997f9f@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:8B — Topic 8: Gene technologies (Spaced review 3)
+DESCRIPTION:Revise 8B — Topic 8: Gene technologies. Session: Spaced revie
+ w 3. Keep the session focused: active recall\, then AQA exam questions. Fo
+ r reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:93e06e8b-ca31-4ca9-895f-96fc2487e458@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:1A — Topic 1: Biological molecules — structure (Monthly review 
+ 1)
+DESCRIPTION:Revise 1A — Topic 1: Biological molecules — structure. Sess
+ ion: Monthly review 1. Keep the session focused: active recall\, then AQA 
+ exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2c486aef-8e2f-4d23-acab-defa8f303ccc@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:1B — Topic 1: Proteins and other biological molecules (Monthly re
+ view 1)
+DESCRIPTION:Revise 1B — Topic 1: Proteins and other biological molecules.
+  Session: Monthly review 1. Keep the session focused: active recall\, then
+  AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ab67eb89-9634-491f-a894-e7b52add8d19@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:2A — Topic 2: Cell structure and microscopy (Monthly review 1)
+DESCRIPTION:Revise 2A — Topic 2: Cell structure and microscopy. Session: 
+ Monthly review 1. Keep the session focused: active recall\, then AQA exam 
+ questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6e0db9c9-782a-4fbe-bda2-7c9ae1118844@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:2B — Topic 2: Cell division\, membranes and immunity (Monthly rev
+ iew 1)
+DESCRIPTION:Revise 2B — Topic 2: Cell division\, membranes and immunity. 
+ Session: Monthly review 1. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c3726ecd-6fdd-42c3-904d-2f8c6a3533f8@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:3A — Topic 3: Exchange surfaces\, digestion and absorption (Month
+ ly review 1)
+DESCRIPTION:Revise 3A — Topic 3: Exchange surfaces\, digestion and absorp
+ tion. Session: Monthly review 1. Keep the session focused: active recall\,
+  then AQA exam questions. For reviews\, attempt recall before checking not
+ es.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4fb3acb8-9ec9-4c82-bbd6-bdca2d678297@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:3B — Topic 3: Mass transport in animals and plants (Monthly revie
+ w 1)
+DESCRIPTION:Revise 3B — Topic 3: Mass transport in animals and plants. Se
+ ssion: Monthly review 1. Keep the session focused: active recall\, then AQ
+ A exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dcbb34a7-542f-4373-9bb5-5b10fb0c451e@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:4A — Topic 4: DNA and protein synthesis (Monthly review 1)
+DESCRIPTION:Revise 4A — Topic 4: DNA and protein synthesis. Session: Mont
+ hly review 1. Keep the session focused: active recall\, then AQA exam ques
+ tions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7fdee10d-f04b-4734-8ad7-bdd15b028ccc@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:4B — Topic 4: Variation\, evolution and biodiversity (Monthly rev
+ iew 1)
+DESCRIPTION:Revise 4B — Topic 4: Variation\, evolution and biodiversity. 
+ Session: Monthly review 1. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d3955dd4-91f5-4be1-b121-85853eaa7871@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:5A — Topic 5: Photosynthesis (Monthly review 1)
+DESCRIPTION:Revise 5A — Topic 5: Photosynthesis. Session: Monthly review 
+ 1. Keep the session focused: active recall\, then AQA exam questions. For 
+ reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:61fdd45c-c050-4284-952f-7e206264bbe0@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:5B — Topic 5: Respiration\, ecosystems and energy (Monthly review
+  1)
+DESCRIPTION:Revise 5B — Topic 5: Respiration\, ecosystems and energy. Ses
+ sion: Monthly review 1. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb511724-ab57-424d-bca8-7650e810b761@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:6A — Topic 6: Nervous coordination and muscles (Monthly review 1)
+DESCRIPTION:Revise 6A — Topic 6: Nervous coordination and muscles. Sessio
+ n: Monthly review 1. Keep the session focused: active recall\, then AQA ex
+ am questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6a2d8656-15b1-4e7a-a6bb-b7240986468b@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:6B — Topic 6: Homeostasis and plant responses (Monthly review 1)
+DESCRIPTION:Revise 6B — Topic 6: Homeostasis and plant responses. Session
+ : Monthly review 1. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:037b705f-6190-4bef-bac7-ca1554db9b75@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:7A — Topic 7: Inheritance and population genetics (Monthly review
+  1)
+DESCRIPTION:Revise 7A — Topic 7: Inheritance and population genetics. Ses
+ sion: Monthly review 1. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:37b2a856-60cc-4177-8a96-782568607a73@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:7B — Topic 7: Evolution\, populations and ecosystems (Monthly rev
+ iew 1)
+DESCRIPTION:Revise 7B — Topic 7: Evolution\, populations and ecosystems. 
+ Session: Monthly review 1. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:110b52d1-a5b4-45fa-81f9-1aaee3ba7f6c@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:8A — Topic 8: Gene regulation and epigenetics (Monthly review 1)
+DESCRIPTION:Revise 8A — Topic 8: Gene regulation and epigenetics. Session
+ : Monthly review 1. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b730b3e5-ad23-4cb7-b946-a55333cff445@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:8B — Topic 8: Gene technologies (Monthly review 1)
+DESCRIPTION:Revise 8B — Topic 8: Gene technologies. Session: Monthly revi
+ ew 1. Keep the session focused: active recall\, then AQA exam questions. F
+ or reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8afdc1ef-4f37-4899-a5e6-57fbac3f5f0e@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:1A — Topic 1: Biological molecules — structure (Monthly review 
+ 2)
+DESCRIPTION:Revise 1A — Topic 1: Biological molecules — structure. Sess
+ ion: Monthly review 2. Keep the session focused: active recall\, then AQA 
+ exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9ee5822e-63e1-4c6b-acf6-fba5020efbc8@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:1B — Topic 1: Proteins and other biological molecules (Monthly re
+ view 2)
+DESCRIPTION:Revise 1B — Topic 1: Proteins and other biological molecules.
+  Session: Monthly review 2. Keep the session focused: active recall\, then
+  AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bf4b1d87-3a26-4592-9d31-ddf72e2f2a85@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:2A — Topic 2: Cell structure and microscopy (Monthly review 2)
+DESCRIPTION:Revise 2A — Topic 2: Cell structure and microscopy. Session: 
+ Monthly review 2. Keep the session focused: active recall\, then AQA exam 
+ questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:39f48280-83a5-47dd-bbe5-9265bc8eea0d@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:2B — Topic 2: Cell division\, membranes and immunity (Monthly rev
+ iew 2)
+DESCRIPTION:Revise 2B — Topic 2: Cell division\, membranes and immunity. 
+ Session: Monthly review 2. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d732e629-4a52-47d0-b046-022947a60aa3@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:3A — Topic 3: Exchange surfaces\, digestion and absorption (Month
+ ly review 2)
+DESCRIPTION:Revise 3A — Topic 3: Exchange surfaces\, digestion and absorp
+ tion. Session: Monthly review 2. Keep the session focused: active recall\,
+  then AQA exam questions. For reviews\, attempt recall before checking not
+ es.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:556a5f1e-de0f-4b92-8c9d-80cf95ff14e9@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:3B — Topic 3: Mass transport in animals and plants (Monthly revie
+ w 2)
+DESCRIPTION:Revise 3B — Topic 3: Mass transport in animals and plants. Se
+ ssion: Monthly review 2. Keep the session focused: active recall\, then AQ
+ A exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8a22e116-d7c0-4048-9654-2485e6c47914@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:4A — Topic 4: DNA and protein synthesis (Monthly review 2)
+DESCRIPTION:Revise 4A — Topic 4: DNA and protein synthesis. Session: Mont
+ hly review 2. Keep the session focused: active recall\, then AQA exam ques
+ tions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d9a8e459-7162-4cbf-9e16-05d0da3ca428@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:4B — Topic 4: Variation\, evolution and biodiversity (Monthly rev
+ iew 2)
+DESCRIPTION:Revise 4B — Topic 4: Variation\, evolution and biodiversity. 
+ Session: Monthly review 2. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:477479fe-72a3-4fa0-8806-22679f02288f@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:5A — Topic 5: Photosynthesis (Monthly review 2)
+DESCRIPTION:Revise 5A — Topic 5: Photosynthesis. Session: Monthly review 
+ 2. Keep the session focused: active recall\, then AQA exam questions. For 
+ reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e01b6f62-9db7-40f5-83c9-99e8bdbb61e8@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:5B — Topic 5: Respiration\, ecosystems and energy (Monthly review
+  2)
+DESCRIPTION:Revise 5B — Topic 5: Respiration\, ecosystems and energy. Ses
+ sion: Monthly review 2. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:085cc563-f787-43cc-b188-edbcd2eaaa5a@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:6A — Topic 6: Nervous coordination and muscles (Monthly review 2)
+DESCRIPTION:Revise 6A — Topic 6: Nervous coordination and muscles. Sessio
+ n: Monthly review 2. Keep the session focused: active recall\, then AQA ex
+ am questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5520fb29-210d-4888-954c-974039869878@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:6B — Topic 6: Homeostasis and plant responses (Monthly review 2)
+DESCRIPTION:Revise 6B — Topic 6: Homeostasis and plant responses. Session
+ : Monthly review 2. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b7684d43-eddc-41b1-bdbb-0628a4c4f562@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:7A — Topic 7: Inheritance and population genetics (Monthly review
+  2)
+DESCRIPTION:Revise 7A — Topic 7: Inheritance and population genetics. Ses
+ sion: Monthly review 2. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1b062d44-f0e0-4258-8f0a-5bf50cd15ab3@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:7B — Topic 7: Evolution\, populations and ecosystems (Monthly rev
+ iew 2)
+DESCRIPTION:Revise 7B — Topic 7: Evolution\, populations and ecosystems. 
+ Session: Monthly review 2. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c24d5d86-40ee-41d0-bfb5-b4a78268281d@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:8A — Topic 8: Gene regulation and epigenetics (Monthly review 2)
+DESCRIPTION:Revise 8A — Topic 8: Gene regulation and epigenetics. Session
+ : Monthly review 2. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9fb5633a-13e6-4e6e-aa96-9d031451190a@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:8B — Topic 8: Gene technologies (Monthly review 2)
+DESCRIPTION:Revise 8B — Topic 8: Gene technologies. Session: Monthly revi
+ ew 2. Keep the session focused: active recall\, then AQA exam questions. F
+ or reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7de758a3-d9fd-4ffb-af0b-1587359cc03e@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:1A — Topic 1: Biological molecules — structure (Monthly review 
+ 3)
+DESCRIPTION:Revise 1A — Topic 1: Biological molecules — structure. Sess
+ ion: Monthly review 3. Keep the session focused: active recall\, then AQA 
+ exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cd7f29ec-fa70-46f1-b0f4-8b519f6c7efc@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:1B — Topic 1: Proteins and other biological molecules (Monthly re
+ view 3)
+DESCRIPTION:Revise 1B — Topic 1: Proteins and other biological molecules.
+  Session: Monthly review 3. Keep the session focused: active recall\, then
+  AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe508de-b534-4536-b625-8ef8ca9fa38b@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:2A — Topic 2: Cell structure and microscopy (Monthly review 3)
+DESCRIPTION:Revise 2A — Topic 2: Cell structure and microscopy. Session: 
+ Monthly review 3. Keep the session focused: active recall\, then AQA exam 
+ questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa007fe-52c5-49ac-aa49-6b58973fb825@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:2B — Topic 2: Cell division\, membranes and immunity (Monthly rev
+ iew 3)
+DESCRIPTION:Revise 2B — Topic 2: Cell division\, membranes and immunity. 
+ Session: Monthly review 3. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e6bbee73-1c21-4367-b414-f0b9089dab7b@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:3A — Topic 3: Exchange surfaces\, digestion and absorption (Month
+ ly review 3)
+DESCRIPTION:Revise 3A — Topic 3: Exchange surfaces\, digestion and absorp
+ tion. Session: Monthly review 3. Keep the session focused: active recall\,
+  then AQA exam questions. For reviews\, attempt recall before checking not
+ es.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:53ef39aa-b0f5-4a06-9ffa-8a93c75a49e4@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:3B — Topic 3: Mass transport in animals and plants (Monthly revie
+ w 3)
+DESCRIPTION:Revise 3B — Topic 3: Mass transport in animals and plants. Se
+ ssion: Monthly review 3. Keep the session focused: active recall\, then AQ
+ A exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9db65409-4394-4d78-91cf-1163f180eeab@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:4A — Topic 4: DNA and protein synthesis (Monthly review 3)
+DESCRIPTION:Revise 4A — Topic 4: DNA and protein synthesis. Session: Mont
+ hly review 3. Keep the session focused: active recall\, then AQA exam ques
+ tions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:41673a3d-19b2-408a-bbb5-7138da988e73@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:4B — Topic 4: Variation\, evolution and biodiversity (Monthly rev
+ iew 3)
+DESCRIPTION:Revise 4B — Topic 4: Variation\, evolution and biodiversity. 
+ Session: Monthly review 3. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:02cde1c9-2e5c-44d5-9e46-35c16a08f006@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:5A — Topic 5: Photosynthesis (Monthly review 3)
+DESCRIPTION:Revise 5A — Topic 5: Photosynthesis. Session: Monthly review 
+ 3. Keep the session focused: active recall\, then AQA exam questions. For 
+ reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:38931401-b2a6-4c45-86ea-447b959d8dde@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:5B — Topic 5: Respiration\, ecosystems and energy (Monthly review
+  3)
+DESCRIPTION:Revise 5B — Topic 5: Respiration\, ecosystems and energy. Ses
+ sion: Monthly review 3. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:86872b70-df5e-4e50-b46d-4a997a36a76b@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:6A — Topic 6: Nervous coordination and muscles (Monthly review 3)
+DESCRIPTION:Revise 6A — Topic 6: Nervous coordination and muscles. Sessio
+ n: Monthly review 3. Keep the session focused: active recall\, then AQA ex
+ am questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fb37ed59-80d1-4652-9ef1-8c3489d5d065@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:6B — Topic 6: Homeostasis and plant responses (Monthly review 3)
+DESCRIPTION:Revise 6B — Topic 6: Homeostasis and plant responses. Session
+ : Monthly review 3. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:16746319-68f0-441e-831b-159481870890@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:7A — Topic 7: Inheritance and population genetics (Monthly review
+  3)
+DESCRIPTION:Revise 7A — Topic 7: Inheritance and population genetics. Ses
+ sion: Monthly review 3. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:caba28d4-bd87-442f-83e8-49234b8e1f2f@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:7B — Topic 7: Evolution\, populations and ecosystems (Monthly rev
+ iew 3)
+DESCRIPTION:Revise 7B — Topic 7: Evolution\, populations and ecosystems. 
+ Session: Monthly review 3. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8269d19a-1157-4e78-be55-0a604820259e@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:8A — Topic 8: Gene regulation and epigenetics (Monthly review 3)
+DESCRIPTION:Revise 8A — Topic 8: Gene regulation and epigenetics. Session
+ : Monthly review 3. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9e4f38bd-aa2c-41a0-b8fb-1083b2ed33ce@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:8B — Topic 8: Gene technologies (Monthly review 3)
+DESCRIPTION:Revise 8B — Topic 8: Gene technologies. Session: Monthly revi
+ ew 3. Keep the session focused: active recall\, then AQA exam questions. F
+ or reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e0fa9f60-c603-4120-9301-1d15ca1b545b@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:1A — Topic 1: Biological molecules — structure (Monthly review 
+ 4)
+DESCRIPTION:Revise 1A — Topic 1: Biological molecules — structure. Sess
+ ion: Monthly review 4. Keep the session focused: active recall\, then AQA 
+ exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4783eb9f-a062-44f5-90bc-94cc7a0e9e72@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:1B — Topic 1: Proteins and other biological molecules (Monthly re
+ view 4)
+DESCRIPTION:Revise 1B — Topic 1: Proteins and other biological molecules.
+  Session: Monthly review 4. Keep the session focused: active recall\, then
+  AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:38a67681-4758-4156-a96c-e336e9e7af44@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:2A — Topic 2: Cell structure and microscopy (Monthly review 4)
+DESCRIPTION:Revise 2A — Topic 2: Cell structure and microscopy. Session: 
+ Monthly review 4. Keep the session focused: active recall\, then AQA exam 
+ questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5317da62-89c0-409b-871f-21bdd233b57f@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:2B — Topic 2: Cell division\, membranes and immunity (Monthly rev
+ iew 4)
+DESCRIPTION:Revise 2B — Topic 2: Cell division\, membranes and immunity. 
+ Session: Monthly review 4. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0fdc648f-38c2-40ea-a09b-007b7ec149c7@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:3A — Topic 3: Exchange surfaces\, digestion and absorption (Month
+ ly review 4)
+DESCRIPTION:Revise 3A — Topic 3: Exchange surfaces\, digestion and absorp
+ tion. Session: Monthly review 4. Keep the session focused: active recall\,
+  then AQA exam questions. For reviews\, attempt recall before checking not
+ es.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:413b66fb-1a8b-417b-a967-0a9b7e93e9a2@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:3B — Topic 3: Mass transport in animals and plants (Monthly revie
+ w 4)
+DESCRIPTION:Revise 3B — Topic 3: Mass transport in animals and plants. Se
+ ssion: Monthly review 4. Keep the session focused: active recall\, then AQ
+ A exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cad32c4a-e188-4d68-a2f9-99981fa605c2@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:4A — Topic 4: DNA and protein synthesis (Monthly review 4)
+DESCRIPTION:Revise 4A — Topic 4: DNA and protein synthesis. Session: Mont
+ hly review 4. Keep the session focused: active recall\, then AQA exam ques
+ tions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7480208e-a5c5-427a-950e-72e58cf6709e@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:4B — Topic 4: Variation\, evolution and biodiversity (Monthly rev
+ iew 4)
+DESCRIPTION:Revise 4B — Topic 4: Variation\, evolution and biodiversity. 
+ Session: Monthly review 4. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3ff22d98-7ea1-45de-b262-cf6ea6f0e86b@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:5A — Topic 5: Photosynthesis (Monthly review 4)
+DESCRIPTION:Revise 5A — Topic 5: Photosynthesis. Session: Monthly review 
+ 4. Keep the session focused: active recall\, then AQA exam questions. For 
+ reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dd033ffd-b934-42a8-aa47-8861754d6f56@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:5B — Topic 5: Respiration\, ecosystems and energy (Monthly review
+  4)
+DESCRIPTION:Revise 5B — Topic 5: Respiration\, ecosystems and energy. Ses
+ sion: Monthly review 4. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:990c3782-beed-4acf-9609-59f3c0fd2b46@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:6A — Topic 6: Nervous coordination and muscles (Monthly review 4)
+DESCRIPTION:Revise 6A — Topic 6: Nervous coordination and muscles. Sessio
+ n: Monthly review 4. Keep the session focused: active recall\, then AQA ex
+ am questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe337d36-395e-4f92-92ef-07c8e2e6da50@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:6B — Topic 6: Homeostasis and plant responses (Monthly review 4)
+DESCRIPTION:Revise 6B — Topic 6: Homeostasis and plant responses. Session
+ : Monthly review 4. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6a73b11e-6aae-4ca6-8122-1e06b6340325@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:7A — Topic 7: Inheritance and population genetics (Monthly review
+  4)
+DESCRIPTION:Revise 7A — Topic 7: Inheritance and population genetics. Ses
+ sion: Monthly review 4. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:140821b9-444d-4f27-99f6-081cda131ea7@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:7B — Topic 7: Evolution\, populations and ecosystems (Monthly rev
+ iew 4)
+DESCRIPTION:Revise 7B — Topic 7: Evolution\, populations and ecosystems. 
+ Session: Monthly review 4. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb5364b-5062-49e3-b2d3-72eba631a61b@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:8A — Topic 8: Gene regulation and epigenetics (Monthly review 4)
+DESCRIPTION:Revise 8A — Topic 8: Gene regulation and epigenetics. Session
+ : Monthly review 4. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:97a4c720-81e9-41e0-ad05-556718a9130d@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:8B — Topic 8: Gene technologies (Monthly review 4)
+DESCRIPTION:Revise 8B — Topic 8: Gene technologies. Session: Monthly revi
+ ew 4. Keep the session focused: active recall\, then AQA exam questions. F
+ or reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:99c2c2e2-ab29-4d5e-8c17-fb5f43a21fca@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:1A — Topic 1: Biological molecules — structure (Monthly review 
+ 5)
+DESCRIPTION:Revise 1A — Topic 1: Biological molecules — structure. Sess
+ ion: Monthly review 5. Keep the session focused: active recall\, then AQA 
+ exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0dae4e53-d672-4c2c-b597-71d31ae6bf03@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:1B — Topic 1: Proteins and other biological molecules (Monthly re
+ view 5)
+DESCRIPTION:Revise 1B — Topic 1: Proteins and other biological molecules.
+  Session: Monthly review 5. Keep the session focused: active recall\, then
+  AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2a48e7ef-5bb6-42bd-96cf-55a524e65ec8@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:2A — Topic 2: Cell structure and microscopy (Monthly review 5)
+DESCRIPTION:Revise 2A — Topic 2: Cell structure and microscopy. Session: 
+ Monthly review 5. Keep the session focused: active recall\, then AQA exam 
+ questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:601cc030-a0d9-4dfc-b7d7-b8642cf04923@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:2B — Topic 2: Cell division\, membranes and immunity (Monthly rev
+ iew 5)
+DESCRIPTION:Revise 2B — Topic 2: Cell division\, membranes and immunity. 
+ Session: Monthly review 5. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:266fcf72-ce63-450c-b8ae-a28bea499ac2@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:3A — Topic 3: Exchange surfaces\, digestion and absorption (Month
+ ly review 5)
+DESCRIPTION:Revise 3A — Topic 3: Exchange surfaces\, digestion and absorp
+ tion. Session: Monthly review 5. Keep the session focused: active recall\,
+  then AQA exam questions. For reviews\, attempt recall before checking not
+ es.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:de2a32e1-1681-4eee-b025-5759125ddcc6@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:3B — Topic 3: Mass transport in animals and plants (Monthly revie
+ w 5)
+DESCRIPTION:Revise 3B — Topic 3: Mass transport in animals and plants. Se
+ ssion: Monthly review 5. Keep the session focused: active recall\, then AQ
+ A exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbf65d49-a94a-4d61-b7cc-f82216b640c6@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:4A — Topic 4: DNA and protein synthesis (Monthly review 5)
+DESCRIPTION:Revise 4A — Topic 4: DNA and protein synthesis. Session: Mont
+ hly review 5. Keep the session focused: active recall\, then AQA exam ques
+ tions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3da2f1a0-611f-4cc6-b586-3f857fd31209@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:4B — Topic 4: Variation\, evolution and biodiversity (Monthly rev
+ iew 5)
+DESCRIPTION:Revise 4B — Topic 4: Variation\, evolution and biodiversity. 
+ Session: Monthly review 5. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cdd65612-5f8b-461c-9795-63d29630bb49@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:5A — Topic 5: Photosynthesis (Monthly review 5)
+DESCRIPTION:Revise 5A — Topic 5: Photosynthesis. Session: Monthly review 
+ 5. Keep the session focused: active recall\, then AQA exam questions. For 
+ reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:14fdc3f3-670a-4d95-86a1-18c238029249@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:5B — Topic 5: Respiration\, ecosystems and energy (Monthly review
+  5)
+DESCRIPTION:Revise 5B — Topic 5: Respiration\, ecosystems and energy. Ses
+ sion: Monthly review 5. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:719c4743-6d8d-4e93-ab66-300e41bc3210@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:6A — Topic 6: Nervous coordination and muscles (Monthly review 5)
+DESCRIPTION:Revise 6A — Topic 6: Nervous coordination and muscles. Sessio
+ n: Monthly review 5. Keep the session focused: active recall\, then AQA ex
+ am questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0933ad57-7ae3-4f8b-8933-13f34d2ccc8e@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:6B — Topic 6: Homeostasis and plant responses (Monthly review 5)
+DESCRIPTION:Revise 6B — Topic 6: Homeostasis and plant responses. Session
+ : Monthly review 5. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7a27e3e9-a69e-4345-8865-0893bb0835e8@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:7A — Topic 7: Inheritance and population genetics (Monthly review
+  5)
+DESCRIPTION:Revise 7A — Topic 7: Inheritance and population genetics. Ses
+ sion: Monthly review 5. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:df085060-a012-4609-bfb9-6ab38f956e78@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:7B — Topic 7: Evolution\, populations and ecosystems (Monthly rev
+ iew 5)
+DESCRIPTION:Revise 7B — Topic 7: Evolution\, populations and ecosystems. 
+ Session: Monthly review 5. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:362c7b03-0906-4b06-a194-7a3314fe9dee@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:8A — Topic 8: Gene regulation and epigenetics (Monthly review 5)
+DESCRIPTION:Revise 8A — Topic 8: Gene regulation and epigenetics. Session
+ : Monthly review 5. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:05bdc85d-016d-4ad1-afdb-c950f26defc9@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:8B — Topic 8: Gene technologies (Monthly review 5)
+DESCRIPTION:Revise 8B — Topic 8: Gene technologies. Session: Monthly revi
+ ew 5. Keep the session focused: active recall\, then AQA exam questions. F
+ or reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:03154625-b6bb-4cc5-9cfc-acc1fa714332@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:1A — Topic 1: Biological molecules — structure (Monthly review 
+ 6)
+DESCRIPTION:Revise 1A — Topic 1: Biological molecules — structure. Sess
+ ion: Monthly review 6. Keep the session focused: active recall\, then AQA 
+ exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:86056b3c-c1bb-4baa-a10e-a72f246faa29@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:1B — Topic 1: Proteins and other biological molecules (Monthly re
+ view 6)
+DESCRIPTION:Revise 1B — Topic 1: Proteins and other biological molecules.
+  Session: Monthly review 6. Keep the session focused: active recall\, then
+  AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e8a6c153-6f3b-474e-803d-c94d58440aea@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:2A — Topic 2: Cell structure and microscopy (Monthly review 6)
+DESCRIPTION:Revise 2A — Topic 2: Cell structure and microscopy. Session: 
+ Monthly review 6. Keep the session focused: active recall\, then AQA exam 
+ questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:01e5e0eb-d81a-4450-b619-c527105e012a@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:2B — Topic 2: Cell division\, membranes and immunity (Monthly rev
+ iew 6)
+DESCRIPTION:Revise 2B — Topic 2: Cell division\, membranes and immunity. 
+ Session: Monthly review 6. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a5b6027e-6923-40fa-8d6d-b90d1ffabe85@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:3A — Topic 3: Exchange surfaces\, digestion and absorption (Month
+ ly review 6)
+DESCRIPTION:Revise 3A — Topic 3: Exchange surfaces\, digestion and absorp
+ tion. Session: Monthly review 6. Keep the session focused: active recall\,
+  then AQA exam questions. For reviews\, attempt recall before checking not
+ es.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d88150ee-2c83-4afe-9b39-a266662e2a66@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:3B — Topic 3: Mass transport in animals and plants (Monthly revie
+ w 6)
+DESCRIPTION:Revise 3B — Topic 3: Mass transport in animals and plants. Se
+ ssion: Monthly review 6. Keep the session focused: active recall\, then AQ
+ A exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:48097fb0-4417-4909-87a3-4b320eee2649@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:4A — Topic 4: DNA and protein synthesis (Monthly review 6)
+DESCRIPTION:Revise 4A — Topic 4: DNA and protein synthesis. Session: Mont
+ hly review 6. Keep the session focused: active recall\, then AQA exam ques
+ tions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:505c1029-1697-44d5-b7b1-72e736dbc975@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:4B — Topic 4: Variation\, evolution and biodiversity (Monthly rev
+ iew 6)
+DESCRIPTION:Revise 4B — Topic 4: Variation\, evolution and biodiversity. 
+ Session: Monthly review 6. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:718264ed-2eb4-4d42-a146-f185d7985031@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:5A — Topic 5: Photosynthesis (Monthly review 6)
+DESCRIPTION:Revise 5A — Topic 5: Photosynthesis. Session: Monthly review 
+ 6. Keep the session focused: active recall\, then AQA exam questions. For 
+ reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:882c5378-1914-4234-b3ec-41b69eff16f6@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:5B — Topic 5: Respiration\, ecosystems and energy (Monthly review
+  6)
+DESCRIPTION:Revise 5B — Topic 5: Respiration\, ecosystems and energy. Ses
+ sion: Monthly review 6. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:77df2ef7-9985-48d1-8e6e-b20fa196db51@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:6A — Topic 6: Nervous coordination and muscles (Monthly review 6)
+DESCRIPTION:Revise 6A — Topic 6: Nervous coordination and muscles. Sessio
+ n: Monthly review 6. Keep the session focused: active recall\, then AQA ex
+ am questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b0c07d6b-d8c5-40bf-abb9-bce667a0520a@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:6B — Topic 6: Homeostasis and plant responses (Monthly review 6)
+DESCRIPTION:Revise 6B — Topic 6: Homeostasis and plant responses. Session
+ : Monthly review 6. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c7f7a5de-2fb4-4dc0-9474-ca8fb87d7c3a@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:7A — Topic 7: Inheritance and population genetics (Monthly review
+  6)
+DESCRIPTION:Revise 7A — Topic 7: Inheritance and population genetics. Ses
+ sion: Monthly review 6. Keep the session focused: active recall\, then AQA
+  exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3ea22a51-08e7-45c8-b6fd-53b87669e9b1@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:7B — Topic 7: Evolution\, populations and ecosystems (Monthly rev
+ iew 6)
+DESCRIPTION:Revise 7B — Topic 7: Evolution\, populations and ecosystems. 
+ Session: Monthly review 6. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b13b7f0a-1ba2-48e3-9db4-920c3268c551@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:8A — Topic 8: Gene regulation and epigenetics (Monthly review 6)
+DESCRIPTION:Revise 8A — Topic 8: Gene regulation and epigenetics. Session
+ : Monthly review 6. Keep the session focused: active recall\, then AQA exa
+ m questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2a84561f-fe0b-4b31-8c9d-01bb97f8ff00@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:8B — Topic 8: Gene technologies (Monthly review 6)
+DESCRIPTION:Revise 8B — Topic 8: Gene technologies. Session: Monthly revi
+ ew 6. Keep the session focused: active recall\, then AQA exam questions. F
+ or reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a26271db-2132-47d9-8a31-b41848b8d84b@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:1A — Topic 1: Biological molecules — structure (Monthly review 
+ 7)
+DESCRIPTION:Revise 1A — Topic 1: Biological molecules — structure. Sess
+ ion: Monthly review 7. Keep the session focused: active recall\, then AQA 
+ exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f93935a8-f009-4dee-8eeb-1fa73f97b971@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:1B — Topic 1: Proteins and other biological molecules (Monthly re
+ view 7)
+DESCRIPTION:Revise 1B — Topic 1: Proteins and other biological molecules.
+  Session: Monthly review 7. Keep the session focused: active recall\, then
+  AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8977a411-19c8-4c52-ac74-dff85dea9c99@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:2A — Topic 2: Cell structure and microscopy (Monthly review 7)
+DESCRIPTION:Revise 2A — Topic 2: Cell structure and microscopy. Session: 
+ Monthly review 7. Keep the session focused: active recall\, then AQA exam 
+ questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5e6cc610-9084-47e4-a6d8-c1de05755ab9@chatgpt.com
+DTSTAMP:20261025T160000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:2B — Topic 2: Cell division\, membranes and immunity (Monthly rev
+ iew 7)
+DESCRIPTION:Revise 2B — Topic 2: Cell division\, membranes and immunity. 
+ Session: Monthly review 7. Keep the session focused: active recall\, then 
+ AQA exam questions. For reviews\, attempt recall before checking notes.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
